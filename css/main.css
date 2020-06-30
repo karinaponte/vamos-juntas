@@ -1,0 +1,28 @@
+.box-cover {
+    background: url("https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80") center no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.box-cover .box-cover--content {
+    padding: 240px 0;
+}
+
+.box-cover h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.box-partners {
+    background-color: #F4F6F6;
+    padding: 100px 0;
+}
+
+.box-partners .box-partners--title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.box-footer {
+    padding: 25px 0;
+}
